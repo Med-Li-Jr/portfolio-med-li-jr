@@ -8,6 +8,11 @@ ul {
   padding: 7px 0 !important
 }
 
+.ul-detail-project {
+  list-style-type:disc !important;
+  padding-left: 2.5rem !important;
+}
+
 a {
   text-decoration: none;
   color: black;
